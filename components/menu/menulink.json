@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_menu_menulinks",
+  "info": {
+    "name": "menulink",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "text",
+      "required": true,
+      "maxLength": 2048,
+      "minLength": 1
+    },
+    "text": {
+      "type": "string",
+      "required": true,
+      "maxLength": 150,
+      "minLength": 3
+    },
+    "newTab": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
