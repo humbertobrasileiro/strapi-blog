@@ -30,7 +30,7 @@
       "required": false,
       "pluginOptions": {}
     },
-    "menulink": {
+    "menuLink": {
       "type": "component",
       "repeatable": true,
       "component": "menu.menulink"

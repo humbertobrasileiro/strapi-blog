@@ -1,8 +1,9 @@
 {
-  "collectionName": "components_menu_menulinks",
+  "collectionName": "components_menu_menuLinks",
   "info": {
-    "name": "menulink",
-    "icon": "address-book"
+    "name": "menuLink",
+    "icon": "address-book",
+    "description": ""
   },
   "options": {},
   "attributes": {
