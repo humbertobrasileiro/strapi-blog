@@ -519,6 +519,7 @@
           "id",
           "title",
           "slug",
+          "cover",
           "excerpt",
           "content",
           "allowComments"
